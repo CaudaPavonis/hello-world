@@ -5,3 +5,5 @@ This is an example repository for the Git tutorial on https://www.w3schools.com
 This repository is built step by step in the tutorial. 
 
 Another line to show how fetch, merge, push, and pull work.
+
+Another line to show how pull specifically works.
